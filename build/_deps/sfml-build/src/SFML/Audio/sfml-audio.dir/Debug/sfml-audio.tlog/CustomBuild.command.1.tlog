@@ -1,0 +1,10 @@
+^C:\USERS\HUAWEI\DOCUMENTS\GITHUB\TIC-TOC-TOE\BUILD\_DEPS\SFML-SRC\SRC\SFML\AUDIO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/Documents/GitHub/tic-toc-toe -BC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build --check-stamp-file C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Audio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

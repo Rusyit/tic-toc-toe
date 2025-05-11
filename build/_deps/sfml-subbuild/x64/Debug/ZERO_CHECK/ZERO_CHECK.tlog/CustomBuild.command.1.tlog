@@ -1,0 +1,10 @@
+^C:\USERS\HUAWEI\DOCUMENTS\GITHUB\TIC-TOC-TOE\BUILD\_DEPS\SFML-SUBBUILD\CMAKEFILES\8ABBEFBCA8D0A6C4D84FA3DAE61B8AB0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild -BC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/sfml-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

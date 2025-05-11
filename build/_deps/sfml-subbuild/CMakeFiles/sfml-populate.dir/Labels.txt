@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/8abbefbca8d0a6c4d84fa3dae61b8ab0/sfml-populate.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/38607b1e674774cb95b08d1b914e503b/sfml-populate-complete.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-build.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-configure.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-download.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-install.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-mkdir.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-patch.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-test.rule
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-subbuild/CMakeFiles/1dbe1680334eefec9cc777ca000393fd/sfml-populate-update.rule
