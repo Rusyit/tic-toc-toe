@@ -1,6 +1,6 @@
 ^C:\USERS\HUAWEI\DOCUMENTS\GITHUB\TIC-TOC-TOE\BUILD\CMAKEFILES\5B663279486AA7D2C27665DCB384DB48\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/Documents/GitHub/tic-toc-toe -BC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/MySFMLProject.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/Documents/GitHub/tic-toc-toe -BC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/TicTacToe.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

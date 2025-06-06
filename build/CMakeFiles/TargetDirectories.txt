@@ -1,4 +1,4 @@
-C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/CMakeFiles/MySFMLApp.dir
+C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/CMakeFiles/TicTacToe.dir
 C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/CMakeFiles/PACKAGE.dir
 C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/CMakeFiles/INSTALL.dir
 C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/CMakeFiles/ALL_BUILD.dir

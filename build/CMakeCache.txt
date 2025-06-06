@@ -167,7 +167,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=MySFMLProject
+CMAKE_PROJECT_NAME:STATIC=TicTacToe
 
 //RC compiler
 CMAKE_RC_COMPILER:FILEPATH=rc
@@ -381,6 +381,15 @@ SFML_USE_STATIC_STD_LIBS:BOOL=FALSE
 
 //TRUE to use system dependencies, FALSE to use the bundled ones.
 SFML_USE_SYSTEM_DEPS:BOOL=FALSE
+
+//Value Computed by CMake
+TicTacToe_BINARY_DIR:STATIC=C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build
+
+//Value Computed by CMake
+TicTacToe_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+TicTacToe_SOURCE_DIR:STATIC=C:/Users/Huawei/Documents/GitHub/tic-toc-toe
 
 //Path to a library.
 VORBISENC_LIBRARY:FILEPATH=C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-src/extlibs/libs-msvc-universal/x64/vorbisenc.lib

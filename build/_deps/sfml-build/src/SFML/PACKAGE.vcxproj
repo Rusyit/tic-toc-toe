@@ -211,7 +211,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\sfml-build\ALL_BUILD.vcxproj">
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\ALL_BUILD.vcxproj">
       <Project>{6477583F-FECB-339F-8F4B-07991E30B631}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>

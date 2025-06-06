@@ -174,9 +174,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\MySFMLApp.vcxproj">
-      <Project>{62DCE5DC-875C-3B6D-B2BF-A62A7CD3F087}</Project>
-      <Name>MySFMLApp</Name>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\TicTacToe.vcxproj">
+      <Project>{8C509564-9F5C-320C-BC5C-449263BD7C52}</Project>
+      <Name>TicTacToe</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\sfml-build\src\SFML\Audio\sfml-audio.vcxproj">
       <Project>{A0A8C445-53C1-300E-A4B5-71CB2E6CD0BC}</Project>
