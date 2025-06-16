@@ -29,7 +29,7 @@ int main() {
         //создание кнопок главного меню
         sf::RectangleShape btn1(sf::Vector2f(buttonWidth, buttonHeight));
         btn1.setPosition(161, 334);
-        btn1.setFillColor(sf::Color(50, 50, 50, 200));
+        btn1.setFillColor(sf::Color(50, 50, 50, 50));
 
         sf::RectangleShape btn2(sf::Vector2f(buttonWidth, buttonHeight));
         btn2.setPosition(161, 474);

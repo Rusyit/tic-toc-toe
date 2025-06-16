@@ -178,6 +178,26 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{8C509564-9F5C-320C-BC5C-449263BD7C52}</Project>
       <Name>TicTacToe</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\TicTacToeTests.vcxproj">
+      <Project>{AC535FDB-4BB6-3DEC-945E-E6F22831E760}</Project>
+      <Name>TicTacToeTests</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\googletest-build\googlemock\gmock.vcxproj">
+      <Project>{E0AAA958-2ABF-3013-9A46-FEC79A8C249F}</Project>
+      <Name>gmock</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\googletest-build\googlemock\gmock_main.vcxproj">
+      <Project>{B438BDA5-250C-30B0-864D-471D7A294452}</Project>
+      <Name>gmock_main</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\googletest-build\googletest\gtest.vcxproj">
+      <Project>{B0C2C879-3803-38ED-BE50-D269DE894CC6}</Project>
+      <Name>gtest</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\googletest-build\googletest\gtest_main.vcxproj">
+      <Project>{B27BF50C-80B4-3FB3-BAF2-CD827D8F34ED}</Project>
+      <Name>gtest_main</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\sfml-build\src\SFML\Audio\sfml-audio.vcxproj">
       <Project>{A0A8C445-53C1-300E-A4B5-71CB2E6CD0BC}</Project>
       <Name>sfml-audio</Name>

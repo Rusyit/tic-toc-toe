@@ -1,0 +1,10 @@
+^C:\USERS\HUAWEI\DOCUMENTS\GITHUB\TIC-TOC-TOE\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\5B7AF70D436AAC05287A6B30D91E63E3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-subbuild -BC:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

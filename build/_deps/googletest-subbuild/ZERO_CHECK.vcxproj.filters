@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Huawei\Documents\GitHub\tic-toc-toe\build\_deps\googletest-subbuild\CMakeFiles\5b7af70d436aac05287a6b30d91e63e3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{701A36BF-244C-3CD2-9C11-4CE65FB10620}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

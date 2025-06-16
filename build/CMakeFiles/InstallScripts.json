@@ -9,7 +9,10 @@
 		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Window/cmake_install.cmake",
 		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Network/cmake_install.cmake",
 		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Graphics/cmake_install.cmake",
-		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Audio/cmake_install.cmake"
+		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/sfml-build/src/SFML/Audio/cmake_install.cmake",
+		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Users/Huawei/Documents/GitHub/tic-toc-toe/build/_deps/googletest-build/googletest/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
